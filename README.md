@@ -13,6 +13,8 @@ A React-based Google Books Search app using Node.js, Express and MongoDB.
 ## How It Works
 Type in a book title in the search box provided. Click "Save" to save a book for the future. Click the "View" button to view more information about the book.
 
-## Future Development
-* Develop fully responsive site.
-* Ability to add notes to saved books.
+## GIF Demo
+<img src="https://github.com/tronciu92/GoogleBooksReact/blob/main/client/public/books-gif.gif">
+
+## Link
+https://tronciu-books.herokuapp.com/
